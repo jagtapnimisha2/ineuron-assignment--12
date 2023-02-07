@@ -1,8 +1,10 @@
 # ineuron-assignment--12
-https://jagtapnimisha2.github.io/ineuron-assignment--12/![Screenshot (212)](https://user-images.githubusercontent.com/120504401/217298894-33738ba8-958a-4580-8ccd-2073af912bb4.png)
-![Screenshot (218)](https://user-images.githubusercontent.com/120504401/217298903-070e8d65-4bfd-4d13-875a-ce2be9e72ea1.png)
-![Screenshot (217)](https://user-images.githubusercontent.com/120504401/217298909-29ebcf5a-6603-4be5-a2bd-da14928aa8f7.png)
-![Screenshot (216)](https://user-images.githubusercontent.com/120504401/217298916-25221852-d486-418f-9337-9b1cd2ec1b74.png)
-![Screenshot (215)](https://user-images.githubusercontent.com/120504401/217298921-61386af7-5fef-4f83-acd1-cd7eafaea269.png)
-![Screenshot (214)](https://user-images.githubusercontent.com/120504401/217298926-533fd47d-92ff-4a08-a2ee-74467ef2d48e.png)
-![Screenshot (213)](https://user-images.githubusercontent.com/120504401/217298930-e05c151d-5eb0-46a1-bcc7-665bb476de2b.png)
+https://jagtapnimisha2.github.io/ineuron-assignment--12/
+
+![Screenshot (218)](https://user-images.githubusercontent.com/120504401/217299173-bf64f7fb-7320-49ff-95eb-871de96f1d3c.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/120504401/217299184-a49a2626-a668-4367-8649-ac50cdb5960e.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/120504401/217299190-097edef2-7097-4f8b-868e-a6adc69e2913.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/120504401/217299195-75b2e64e-c786-4304-a420-322758a66c22.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/120504401/217299199-e460ef18-5d92-4686-9f74-db7944d92c0a.png)
+![Screenshot (213)](https://user-images.githubusercontent.com/120504401/217299203-11181407-dba5-4a56-ac0c-15b63954dedc.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/120504401/217299212-648a84d9-5916-4a5d-997d-214e051c1c4b.png)
